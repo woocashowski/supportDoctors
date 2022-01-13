@@ -1,0 +1,9 @@
+C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\bin\Debug\supportDoctors.exe.config
+C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\bin\Debug\supportDoctors.exe
+C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\bin\Debug\supportDoctors.pdb
+C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\obj\Debug\supportDoctors.csprojAssemblyReference.cache
+C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\obj\Debug\supportDoctors.Properties.Resources.resources
+C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\obj\Debug\supportDoctors.csproj.GenerateResource.cache
+C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\obj\Debug\supportDoctors.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\obj\Debug\supportDoctors.exe
+C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\obj\Debug\supportDoctors.pdb
