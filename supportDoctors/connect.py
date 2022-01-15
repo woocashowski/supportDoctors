@@ -237,3 +237,7 @@ def set_keys():
     print(e)
     print(d)
     print(N)
+
+
+def test_add(x, y):
+    return x + y

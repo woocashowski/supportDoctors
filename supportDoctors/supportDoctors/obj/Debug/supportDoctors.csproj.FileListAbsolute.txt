@@ -7,3 +7,4 @@ C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\obj\Debug\
 C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\obj\Debug\supportDoctors.csproj.CoreCompileInputs.cache
 C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\obj\Debug\supportDoctors.exe
 C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\obj\Debug\supportDoctors.pdb
+C:\Users\Łukasz\Desktop\supportDoctors\supportDoctors\supportDoctors\obj\Debug\supportDoctors.Form1.resources
